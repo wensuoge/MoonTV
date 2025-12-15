@@ -122,8 +122,7 @@
     },
     "wujinapi_cc": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
-      "name": "TV-wujinapi无尽",
-      "detail": ""
+      "name": "TV-wujinapi无尽"
     },
     "yayazy": {
       "api": "https://cj.yayazy.net/api.php/provide/vod",
@@ -142,8 +141,7 @@
     },
     "wolongzy_cc": {
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-      "name": "TV-卧龙资源",
-      "detail": ""
+      "name": "TV-卧龙资源"
     },
     "wolongzyw_com": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -157,8 +155,7 @@
     },
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "TV-如意资源",
-      "detail": ""
+      "name": "TV-如意资源"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
@@ -172,18 +169,15 @@
     },
     "wujinapi_com": {
       "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "name": "TV-无尽资源",
-      "detail": ""
+      "name": "TV-无尽资源"
     },
     "wujinapi_me": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "TV-无尽资源",
-      "detail": ""
+      "name": "TV-无尽资源"
     },
     "wujinapi_net": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
-      "name": "TV-无尽资源",
-      "detail": ""
+      "name": "TV-无尽资源"
     },
     "wwzy": {
       "api": "https://wwzy.tv/api.php/provide/vod",
@@ -197,8 +191,7 @@
     },
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "TV-暴风资源",
-      "detail": ""
+      "name": "TV-暴风资源"
     },
     "zuidazy": {
       "api": "http://zuidazy.me/api.php/provide/vod",
@@ -212,13 +205,11 @@
     },
     "apiyhzy": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "TV-樱花资源",
-      "detail": ""
+      "name": "TV-樱花资源"
     },
     "yparse": {
       "api": "https://api.yparse.com/api/json",
-      "name": "TV-步步高资源",
-      "detail": ""
+      "name": "TV-步步高资源"
     },
     "niuniuzy": {
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
@@ -247,8 +238,7 @@
     },
     "suoniapi": {
       "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "TV-索尼资源",
-      "detail": ""
+      "name": "TV-索尼资源"
     },
     "hongniuzy2": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -282,13 +272,11 @@
     },
     "subocaiji": {
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "name": "TV-速博资源",
-      "detail": ""
+      "name": "TV-速博资源"
     },
     "lziapi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "TV-量子资源",
-      "detail": ""
+      "name": "TV-量子资源"
     },
     "jinyingzy": {
       "api": "https://jinyingzy.com/api.php/provide/vod",
@@ -347,8 +335,7 @@
     },
     "lbapiby": {
       "api": "http://lbapiby.com/api.php/provide/vod",
-      "name": "AV-AIvin",
-      "detail": ""
+      "name": "AV-AIvin"
     },
     "jkunzyapi": {
       "api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -362,8 +349,7 @@
     },
     "lbapi9": {
       "api": "https://lbapi9.com/api.php/provide/vod",
-      "name": "AV-乐播资源",
-      "detail": ""
+      "name": "AV-乐播资源"
     },
     "aosikazy": {
       "api": "https://aosikazy.com/api.php/provide/vod",
@@ -392,8 +378,7 @@
     },
     "fhapi9": {
       "api": "http://fhapi9.com/api.php/provide/vod",
-      "name": "AV-番号资源",
-      "detail": ""
+      "name": "AV-番号资源"
     },
     "kxgav": {
       "api": "https://www.kxgav.com/api/json.php",
